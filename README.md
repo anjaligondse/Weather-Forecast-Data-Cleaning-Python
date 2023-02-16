@@ -11,10 +11,15 @@ Which is provided by HiCounselor.
 ⛅ Objectives of Module 1:
 
 • Handling null values, deletion, or transformation of irrelevant values.
+
 • Datatype transformation, formatting, removing duplicates.
+
 • To Correct the years for a given dataset
+
 • Encoding data into suitable format i.e. UTF-8
+
 • To get a cleaned dataset CSV file
+
 • To analyze Data using SQL problem statements
  
 ⛅ Key Features of the Project:
